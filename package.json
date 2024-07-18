@@ -1,0 +1,16 @@
+{
+  "name": "fetchqasampletest",
+  "version": "1.0.0",
+  "description": "Fetch SDET Testing Challenge - Find Fake Gold Bar With Min Weighing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e:electron": "cypress run --browser electron"
+  },
+  "keywords": [],
+  "author": "Nicole Y.np",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
